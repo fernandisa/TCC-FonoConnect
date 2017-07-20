@@ -1,0 +1,8 @@
+select acertos from fonemas f where f.fonema = 'a';
+UPDATE fonemas SET acertos = 0  where fonemas.fonema = 'a';
+UPDATE fonemas SET tentativas = 0 WHERE tentativas is NULL;
+UPDATE paciente_fonema SET dificuldade = 0 WHERE dificuldade is NULL
+select tentativas from fonemas
+SELECT acertos FROM paciente_fonema WHERE id_paciente = 'borges1998'
+UPDATE paciente_fonema SET acertos = 3 WHERE id_paciente = 'borges1998'
+SELECT * FROM paciente_fonema

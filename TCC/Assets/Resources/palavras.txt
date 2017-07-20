@@ -1,0 +1,5 @@
+abelha
+canela
+osso
+gato
+cachorro

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1fed1f9f9ec56c04589b90c1bb7caaa5
+timeCreated: 1494988018
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - barreiraPrefab: {fileID: 1449145569987384, guid: e568fa02f4aa4a744966b6392aa59a79,
+      type: 2}
+  - palavraPrefab: {fileID: 1619848152211828, guid: 0d08ef1bdada7824f870496c7e1117f4,
+      type: 2}
+  - detectedWord: {fileID: 1279990031655338, guid: 81a4353b3ccf5434eb23b4638c25a5ed,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
